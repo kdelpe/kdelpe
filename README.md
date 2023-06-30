@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋🏿, I'm Kervens</h1>
 <h3 align="center">Backend Engineering Intern @ The New York Times</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdelpe" alt="kdelpe" /></a> </p>
-
 - 🔭 I’m currently working on [Vidly](https://github.com/kdelpe/Vidly)
 
+- 🌱 I’m currently learning **Apollo Federation, GraphQL, TypeScript, Jest**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kdelpe](https://github.com/kdelpe)
+
+- 💬 Ask me about **Backend Engineering Development**
+
 - 📫 How to reach me **kdelpe@gmail.com**
+
+- ⚡ Fun fact **I'm Haitian and I play 🎸🎹🎼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
