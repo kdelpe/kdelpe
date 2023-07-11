@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kdelpe](https://github.com/kdelpe)
 
-- 💬 Ask me about **Backend Engineering Development**
+- 💬 Ask me about **Software Engineering/Development**
 
 - 📫 How to reach me **kdelpe@gmail.com**
 
