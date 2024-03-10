@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, I'm Kervens</h1>
-<h3 align="center">Backend Engineering Intern @ The New York Times</h3>
+<h3 align="center">Associate Software Engineer @ The New York Times</h3>
 
 - 🔭 I’m currently working on [Vidly](https://github.com/kdelpe/Vidly)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kdelpe](https://github.com/kdelpe)
 
-- 💬 Ask me about **Software Engineering/Development**
+- 💬 Ask me about **Software Engineering/Back-End Development**
 
 - 📫 How to reach me **kdelpe@gmail.com**
 
