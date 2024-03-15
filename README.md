@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏿, I'm Kervens</h1>
 <h3 align="center">Associate Software Engineer @ The New York Times</h3>
 
-- 🔭 I’m currently working on [Vidly](https://github.com/kdelpe/Vidly)
+- 🔭 I’m currently working on [Company]([https://github.com/kdelpe/Vidly](https://github.com/kdelpe/company))
 
-- 🌱 I’m currently learning **API testing with Node, GraphQL, TypeScript, Jest**
+- 🌱 I’m currently learning **Backend Development with Go, MySQL, Cloud COmputing, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/kdelpe](https://github.com/kdelpe)
 
