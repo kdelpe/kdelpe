@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Company](https://github.com/kdelpe/company)
 
-- 🌱 I’m currently learning **Backend Development with Go, MySQL, Cloud COmputing, **
+- 🌱 I’m currently learning **Backend Development with Go, MySQL, Cloud Computing, Terraform, Datadog**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kdelpe](https://github.com/kdelpe)
 
